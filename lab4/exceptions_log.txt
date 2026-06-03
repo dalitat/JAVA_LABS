@@ -1,0 +1,2 @@
+CustomFileNotFoundException: Файл не найден: yaa
+CustomFileNotFoundException: Файл не найден: ya
