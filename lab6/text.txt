@@ -1,0 +1,5 @@
+meow diff cat cat cat 3dog dog !!bird bird fish fish fish
+cat dog bird meow fish cat dog, bird fish cat dog
+bird meow? bird bird cat cat dog dog fish fish cat
+dog cat fish bird cat meow dog fish! bird cat dog
+fish fish cat meow dog bird cat dog bird fish cat
